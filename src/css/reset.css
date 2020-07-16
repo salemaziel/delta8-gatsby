@@ -1,0 +1,79 @@
+      /* Reset styles */
+      *,
+      ::before,
+      ::after {
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+      }
+      *::selection {
+        background-color: #ff0811;
+        color: #ffffff;
+      }
+      html,
+      body {
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        font-size: 15px;
+        font-weight: 500;
+        font-family: "Montserrat";
+        color: #000000;
+      }
+      a {
+        outline: none;
+        border: none;
+        text-decoration: none;
+        color: #000000;
+      }
+      a:visited,
+      a:focus,
+      a:hover,
+      a:active {
+        outline: none;
+        border: none;
+        text-decoration: none;
+        color: #000000;
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-weight: 500;
+      }
+      h1 {
+        margin: 20px 0px;
+        font-size: 36px;
+      }
+      h2 {
+        margin: 20px 0px;
+        font-size: 30px;
+      }
+      h3 {
+        margin: 15px 0px;
+        font-size: 24px;
+      }
+      h4 {
+        margin: 15px 0px;
+        font-size: 18px;
+      }
+      h5 {
+        margin: 10px 0px;
+        font-size: 16px;
+      }
+      h6 {
+        margin: 10px 0px;
+        font-size: 15px;
+      }
+      p {
+        margin: 0px 0px 10px;
+        font-size: 16px;
+        font-weight: normal;
+      }
+      section {
+        padding: 30px 0px;
+      }
