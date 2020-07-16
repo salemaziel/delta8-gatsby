@@ -1,13 +1,13 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import FooterSection from '../components/PageComponents/Home/Footer.jsx'
+import FooterSection from "./Footer.jsx"
 
 class Footer extends React.Component {
-    render() {
-        return (
-            <>
-            {/*<footer className="site-footer">
+  render() {
+    return (
+      <>
+        {/*<footer className="site-footer">
                 <div className="footer_inner">
                     <div className="container">
                         <div className="footer-widget footer-content">
@@ -28,10 +28,10 @@ class Footer extends React.Component {
                     </div>
                 </div>
         </footer>*/}
-<FooterSection />
-        </>
-        )
-    }
+        <FooterSection />
+      </>
+    )
+  }
 }
 
 export default Footer

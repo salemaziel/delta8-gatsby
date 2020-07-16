@@ -8,7 +8,7 @@ import '../css/ppStyles.css'
 import '../css/ppTheme.css'
 import '../css/ppSVG.css'
 
-import PageHeader from '../components/PageComponents/Home/Header'
+import PageHeader from './Header'
 
 
 

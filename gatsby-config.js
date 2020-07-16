@@ -48,5 +48,6 @@ module.exports = {
         autopop: true,
       },
     },
+    `gatsby-plugin-offline`,
   ],
 }

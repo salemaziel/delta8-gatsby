@@ -1,9 +1,9 @@
 import React from 'react'
 
-import SourDWax from '../../../images/sour_diesel_wax-540x.png'
-import logo from "../../../images/logo-delta8-75x.png"
-import MagnifierTool from '../../../images/magnifying-glass.svg'
-import PayMerchants from '../../../images/payment-merchants.png'
+import SourDWax from '../images/sour_diesel_wax-540x.png'
+import logo from "../images/logo-delta8-75x.png"
+import MagnifierTool from '../images/magnifying-glass.svg'
+import PayMerchants from '../images/payment-merchants.png'
 
 const FooterSection = () => (
     <footer className="footer-main">

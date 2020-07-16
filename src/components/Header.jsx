@@ -1,6 +1,6 @@
 import React from "react"
-import logo from "../../../images/logo-delta8-80x.png"
-import MenuDots from '../../../images/menu-dots.svg'
+import logo from "../images/logo-delta8-80x.png"
+import MenuDots from '../images/menu-dots.svg'
 import { Link } from 'gatsby'
 
 

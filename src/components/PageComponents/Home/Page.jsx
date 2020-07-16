@@ -1,12 +1,10 @@
 import React from "react"
 import Banner from "./Banner"
-import Header from "./Header"
 import Categories from "./Categories"
 import BlanketSection from "./BlanketSection"
 import PopularProducts from "./PopularProducts"
 import OfferBanner from "./OfferBanner"
 import TrumpSection from "./trumpSection"
-import Footer from "./Footer"
 
 const HomePage = ({ children }) => (
   <>
