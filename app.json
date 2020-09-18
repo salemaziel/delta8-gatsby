@@ -10,7 +10,7 @@
     },
     "SNIPCART_API_KEY": {
       "description": "Snipcart API key",
-      "required": false
+      "required": true
     }
   },
   "buildpacks": [

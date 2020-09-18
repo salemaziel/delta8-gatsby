@@ -5,8 +5,8 @@ const { spaceId, accessToken, snipcart } = process.env;
 
 module.exports = {
   siteMetadata: {
-    title: `Delta8`,
-    description: `Delta8THC E-commerce shop demo by SalemAziel`,
+    title: `RBLArt_eCommerce`,
+    description: `RBL Art E-commerce shop demo by SalemAziel`,
     author: `@salemaziel`,
   },
   plugins: [{
@@ -32,8 +32,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Delta8THC Demo`,
-        short_name: `Delta8`,
+        name: `RBLArt Ecommerce Demo`,
+        short_name: `RBL Ecommerce`,
         start_url: `/`,
         background_color: `#000000`,
         theme_color: `#28A745`,

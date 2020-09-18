@@ -211,17 +211,17 @@ const PageHeader = () => (
               </a>
             </li>
             <li>
-              <a href="#">Blankets</a>
+              <a href="#">Jackets</a>
             </li>
             <li>
-              <a href="#">Flags</a>
+              <a href="#">Bandanas</a>
             </li>
             <li>
               <a href="#">Stickers</a>
             </li>
             <li>
               <a href="#">
-                Trump Failed the U.S.A. <i className="fas fa-chevron-down" />
+                Accessories <i className="fas fa-chevron-down" />
               </a>
             </li>
             <li>
