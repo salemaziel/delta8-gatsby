@@ -20,8 +20,8 @@ const Banner = () => (
         </div>
         <div className="col-md-6 align-self-end">
           <div className="banner-center-content text-center">
-            <h1>Delta 8 THC</h1>
-            <p>SCROLL DOWN TO SEE OUR AMAZING LINE OF MERCHANDISE</p>
+            <h1>Demo E-Commerce Shop</h1>
+            {/*<p>SCROLL DOWN TO SEE OUR AMAZING LINE OF MERCHANDISE</p>*/}
             <div className="scrolldown-box pt-3">
               <a href="javascript:;" className="banner-scroll-link">
                 <img src={GreenDownArrow} className="img-fluid" alt />
